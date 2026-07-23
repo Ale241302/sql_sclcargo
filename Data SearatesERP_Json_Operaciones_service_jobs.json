@@ -1,0 +1,2110 @@
+[
+  {
+    "Booking Ref.": "SJ-00026",
+    "Service Job No": "Certificado N° 35",
+    "Date": "08/05/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "POLIZA DE SEGURO",
+    "Packs": "3,051",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA",
+    "Estimated Margin(%)": "40.49",
+    "Received Margin(%)": "40.49",
+    "Form_Customer": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA",
+    "Form_Customer_Address": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA\r\nAV LAS ESTERAS 2300 25\r\n13\r\nChile",
+    "Form_Shipper": "PRODUCCION AGRICOLA COSTA SUR PROAGRICOSUR S.A.",
+    "Form_Shipper_Address": "PRODUCCION AGRICOLA COSTA SUR PROAGRICOSUR S.A.\r\nCDLA LAS BRISAS CALLE 4TA. FRENTE A\r\nESTACION DE BUSES MACHALA - ECUADOR\r\nEcuador",
+    "Form_Consignee": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA",
+    "Form_Consignee_Address": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA\r\nAV LAS ESTERAS 2300 25\r\n13\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Consignee",
+        "Party": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA",
+        "Party Address": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "PRODUCCION AGRICOLA COSTA SUR PROAGRICOSUR S.A.",
+        "Party Address": "PRODUCCION AGRICOLA COSTA SUR PROAGRICOSUR S.A."
+      },
+      {
+        "Party Type": "Customer",
+        "Party": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA",
+        "Party Address": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "INSURANCE",
+        "Charge Description": "INSURANCE",
+        "Debtor": "SALICORP SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 263.41",
+        "Exchange Rate": "895.860",
+        "Amount": "$ 263.41",
+        "Company Currency Amount": "$ 235,978.48",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "SEGURO DE CARGA",
+        "Charge Description": "SEGURO DE CARGA",
+        "Creditor": "ASESORIAS EN SEGUROS DE TRANSPORTE NACIONAL E INTERNACIONAL CHILE LTDA.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 150.52",
+        "Exchange Rate": "932.910",
+        "Amount": "$ 150.52",
+        "Bill Currency Amount": "$ 140,421.61",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      }
+    ]
+  },
+  {
+    "Booking Ref.": "SJ-00025",
+    "Service Job No": "FLH26026733",
+    "Date": "03/11/2026",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "RECEPCION DE CARGA",
+    "Packs": "2",
+    "Net Weight": "0.00",
+    "Gross Weight": "2,000.00",
+    "Chargeable": "2,000.00",
+    "Customer": "INNOVA TRANSPORT S.R.L.",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "RECEPCION DE CARGA",
+        "Charge Description": "CARGO RECEIPT",
+        "Debtor": "INNOVA TRANSPORT S.R.L.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 7.10",
+        "Exchange Rate": "912.410",
+        "Amount": "$ 7.10",
+        "Company Currency Amount": "$ 6,478.11",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "ALMACENAJE",
+        "Charge Description": "ALMACENAJE",
+        "Debtor": "INNOVA TRANSPORT S.R.L.",
+        "Measurement Basis": "Unit",
+        "No of Units": "9.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 5.00",
+        "Exchange Rate": "912.410",
+        "Amount": "$ 45.00",
+        "Company Currency Amount": "$ 41,058.45",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "CARGUIO PALLET",
+        "Charge Description": "CARGUIO PALLET",
+        "Debtor": "INNOVA TRANSPORT S.R.L.",
+        "Measurement Basis": "Unit",
+        "No of Units": "2.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 7.10",
+        "Exchange Rate": "912.410",
+        "Amount": "$ 14.20",
+        "Company Currency Amount": "$ 12,956.22",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "HANDLING",
+        "Charge Description": "HANDLING",
+        "Debtor": "INNOVA TRANSPORT S.R.L.",
+        "Measurement Basis": "Shipment",
+        "No of Units": "2.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 30.00",
+        "Exchange Rate": "912.410",
+        "Amount": "$ 60.00",
+        "Company Currency Amount": "$ 54,744.60",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00024",
+    "Service Job No": "GE VERNOVA MARZO 2026",
+    "Date": "02/10/2026",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "ALMACENAJE",
+    "Packs": "10",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "Hemmersbach Mexico, S. de R.L. de C.V.",
+    "Estimated Margin(%)": "53.11",
+    "Received Margin(%)": "53.11",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "RECEPCION DE CARGA",
+        "Charge Description": "CARGO RECEIPT",
+        "Debtor": "Hemmersbach Mexico, S. de R.L. de C.V.",
+        "Measurement Basis": "Unit",
+        "No of Units": "2.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 4.00",
+        "Exchange Rate": "927.460",
+        "Amount": "$ 8.00",
+        "Company Currency Amount": "$ 7,419.68",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "ALMACENAJE",
+        "Charge Description": "ALMACENAJE",
+        "Debtor": "Hemmersbach Mexico, S. de R.L. de C.V.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 30.00",
+        "Exchange Rate": "927.460",
+        "Amount": "$ 30.00",
+        "Company Currency Amount": "$ 27,823.80",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "DESPACHO DE CARGA CHILEXPRESS",
+        "Debtor": "Hemmersbach Mexico, S. de R.L. de C.V.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 296.63",
+        "Exchange Rate": "927.460",
+        "Amount": "$ 296.63",
+        "Company Currency Amount": "$ 275,112.46",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "FLETE TERRESTRE",
+        "Charge Description": "FLETE TERRESTRE SCL CARGO",
+        "Debtor": "Hemmersbach Mexico, S. de R.L. de C.V.",
+        "Measurement Basis": "Unit",
+        "No of Units": "9.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "927.460",
+        "Amount": "$ 90.00",
+        "Company Currency Amount": "$ 83,471.40",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "DESPACHO DE CARGA GENERAL",
+        "Creditor": "CHILEXPRESS S.A.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 18,802.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 18,802.00",
+        "Bill Currency Amount": "$ 18,802.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "DESPACHO DE CARGA GENERAL",
+        "Creditor": "CHILEXPRESS S.A.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 8,951.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 8,951.00",
+        "Bill Currency Amount": "$ 8,951.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "DESPACHO DE CARGA GENERAL",
+        "Creditor": "CHILEXPRESS S.A.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 143,076.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 143,076.00",
+        "Bill Currency Amount": "$ 143,076.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "FLETE TERRESTRE CHILEXPRESS",
+        "Creditor": "CHILEXPRESS S.A.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 13,838.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 13,838.00",
+        "Bill Currency Amount": "$ 13,838.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      }
+    ]
+  },
+  {
+    "Booking Ref.": "SJ-00023",
+    "Service Job No": "GE VERNOVA FEBRERO 2026",
+    "Date": "02/10/2026",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "ALMACENAJE",
+    "Packs": "10",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "Hemmersbach Mexico, S. de R.L. de C.V.",
+    "Estimated Margin(%)": "80.82",
+    "Received Margin(%)": "80.82",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "RECEPCION DE CARGA",
+        "Charge Description": "CARGO RECEIPT",
+        "Debtor": "Hemmersbach Mexico, S. de R.L. de C.V.",
+        "Measurement Basis": "Unit",
+        "No of Units": "3.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 4.00",
+        "Exchange Rate": "906.320",
+        "Amount": "$ 12.00",
+        "Company Currency Amount": "$ 10,875.84",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "BODEGAJE",
+        "Charge Description": "BODEGAJE",
+        "Debtor": "Hemmersbach Mexico, S. de R.L. de C.V.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 30.00",
+        "Exchange Rate": "906.320",
+        "Amount": "$ 30.00",
+        "Company Currency Amount": "$ 27,189.60",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "DESPACHO DE CARGA GENERAL",
+        "Debtor": "Hemmersbach Mexico, S. de R.L. de C.V.",
+        "Measurement Basis": "Unit",
+        "No of Units": "6.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "906.320",
+        "Amount": "$ 60.00",
+        "Company Currency Amount": "$ 54,379.20",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "FLETE TERRESTRE",
+        "Charge Description": "ENVIO CHILEXPRESS 696718777215",
+        "Debtor": "Hemmersbach Mexico, S. de R.L. de C.V.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 30.00",
+        "Exchange Rate": "906.320",
+        "Amount": "$ 30.00",
+        "Company Currency Amount": "$ 27,189.60",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "DESPACHO DE CARGA GENERAL",
+        "Creditor": "CHILEXPRESS S.A.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 22,944.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 22,944.00",
+        "Bill Currency Amount": "$ 22,944.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      }
+    ]
+  },
+  {
+    "Booking Ref.": "SJ-00022",
+    "Service Job No": "USPEED FEBRERO 2026",
+    "Date": "02/02/2026",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "89",
+    "Net Weight": "0.00",
+    "Gross Weight": "104.98",
+    "Chargeable": "104.98",
+    "Customer": "U-Speed Supply Chain Management (China) LTD.",
+    "Estimated Margin(%)": "27.98",
+    "Received Margin(%)": "27.98",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "[PU] Pickup",
+        "Charge Description": "T-Pickup",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Shipment",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 751.80",
+        "Exchange Rate": "906.320",
+        "Amount": "$ 751.80",
+        "Company Currency Amount": "$ 681,371.38",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "INSPECTION",
+        "Charge Description": "T-INSPECTION",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Shipment",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 97.90",
+        "Exchange Rate": "906.320",
+        "Amount": "$ 97.90",
+        "Company Currency Amount": "$ 88,728.73",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "PICK UP USPEED",
+        "Charge Description": "PICK UP USPEED",
+        "Creditor": "EMPRESA DE CORREOS DE CHILE",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 554,639.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 554,639.00",
+        "Bill Currency Amount": "$ 554,639.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      }
+    ]
+  },
+  {
+    "Booking Ref.": "SJ-00021",
+    "Service Job No": "GTC FEBRERO 2026",
+    "Date": "10/01/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "172",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "GLOBAL TRADING COMPANY SPA",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "ALMACENAJE",
+        "Charge Description": "BODEGAJE",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "172.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 25,867.60",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 4,449,227.20",
+        "Company Currency Amount": "$ 4,449,227.20",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "ENTREGA CARGUIO",
+        "Charge Description": "ENTREGA CARGUIO",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "10.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 3,183.70",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 31,837.00",
+        "Company Currency Amount": "$ 31,837.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00020",
+    "Service Job No": "B5669BFVCPP",
+    "Date": "02/27/2026",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "COUNSELING IN FOREING TRADE",
+    "Packs": "100",
+    "Net Weight": "0.00",
+    "Gross Weight": "400.00",
+    "Chargeable": "400.00",
+    "Customer": "WORLD CENTRIC GROUP",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "DESPACHO DE CARGA GENERAL",
+        "Debtor": "WORLD CENTRIC GROUP",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 60,000.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 60,000.00",
+        "Company Currency Amount": "$ 60,000.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "DESPACHO DE CARGA GENERAL",
+        "Creditor": "",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 0.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 0.00",
+        "Bill Currency Amount": "$ 0.00",
+        "Due Amount": "$ 0.00",
+        "Status": "To Bill"
+      }
+    ]
+  },
+  {
+    "Booking Ref.": "SJ-00019",
+    "Service Job No": "GE VERNOVA ENERO 2026",
+    "Date": "02/10/2026",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "PAQUETE EXPRESS DOMICILIO",
+    "Packs": "10",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "Hemmersbach Mexico, S. de R.L. de C.V.",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "RECEPCION DE CARGA",
+        "Charge Description": "CARGO RECEIPT",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "3.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 4.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 12.00",
+        "Company Currency Amount": "$ 10,359.48",
+        "Due Amount": "$ 12.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "BODEGAJE",
+        "Charge Description": "BODEGAJE",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 30.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 30.00",
+        "Company Currency Amount": "$ 25,898.70",
+        "Due Amount": "$ 30.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "GEVRITM0143916",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 10.00",
+        "Company Currency Amount": "$ 8,632.90",
+        "Due Amount": "$ 10.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "GEVRITM0090011",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 10.00",
+        "Company Currency Amount": "$ 8,632.90",
+        "Due Amount": "$ 10.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "GEVRITM0099333",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 10.00",
+        "Company Currency Amount": "$ 8,632.90",
+        "Due Amount": "$ 10.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "GEVRITM0091370",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 10.00",
+        "Company Currency Amount": "$ 8,632.90",
+        "Due Amount": "$ 10.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "GEVRITM0134519",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 10.00",
+        "Company Currency Amount": "$ 8,632.90",
+        "Due Amount": "$ 10.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "GEVRITM0118473_3",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 10.00",
+        "Company Currency Amount": "$ 8,632.90",
+        "Due Amount": "$ 10.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "GEVRITM0099316_3",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 10.00",
+        "Company Currency Amount": "$ 8,632.90",
+        "Due Amount": "$ 10.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "GEVRITM0090012",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 10.00",
+        "Company Currency Amount": "$ 8,632.90",
+        "Due Amount": "$ 10.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "GEVRITM0099325",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 10.00",
+        "Company Currency Amount": "$ 8,632.90",
+        "Due Amount": "$ 10.00",
+        "Status": "To Invoice"
+      },
+      {
+        "Charge Details": "DESPACHO DE CARGA GENERAL",
+        "Charge Description": "GEVRITM0149755",
+        "Debtor": "Hemmersbach US LLC",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 10.00",
+        "Exchange Rate": "863.290",
+        "Amount": "$ 10.00",
+        "Company Currency Amount": "$ 8,632.90",
+        "Due Amount": "$ 10.00",
+        "Status": "To Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00018",
+    "Service Job No": "USPEED ENERO 2026",
+    "Date": "02/02/2026",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "93",
+    "Net Weight": "0.00",
+    "Gross Weight": "159.40",
+    "Chargeable": "159.40",
+    "Customer": "U-Speed Supply Chain Management (China) LTD.",
+    "Estimated Margin(%)": "32.91",
+    "Received Margin(%)": "32.91",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "[PU] Pickup",
+        "Charge Description": "T-Pickup",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Shipment",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 845.11",
+        "Exchange Rate": "865.100",
+        "Amount": "$ 845.11",
+        "Company Currency Amount": "$ 731,104.66",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "INSPECTION",
+        "Charge Description": "T-INSPECTION",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Shipment",
+        "No of Units": "93.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 1.10",
+        "Exchange Rate": "865.100",
+        "Amount": "$ 102.30",
+        "Company Currency Amount": "$ 88,499.73",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "PICK UP USPEED",
+        "Charge Description": "PICK UP USPEED",
+        "Creditor": "EMPRESA DE CORREOS DE CHILE",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 549,860.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 549,860.00",
+        "Bill Currency Amount": "$ 549,860.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      }
+    ]
+  },
+  {
+    "Booking Ref.": "SJ-00017",
+    "Service Job No": "GTC ENERO 2026",
+    "Date": "10/01/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "98",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "GLOBAL TRADING COMPANY SPA",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "BODEGAJE",
+        "Charge Description": "BODEGAJE",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "98.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 30.00",
+        "Exchange Rate": "928.450",
+        "Amount": "$ 2,940.00",
+        "Company Currency Amount": "$ 2,729,643.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "ENTREGA CARGUIO",
+        "Charge Description": "ENTREGA CARGUIO",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "2.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 4.00",
+        "Exchange Rate": "928.450",
+        "Amount": "$ 8.00",
+        "Company Currency Amount": "$ 7,427.60",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00016",
+    "Service Job No": "GTC-DICIEMBRE 2025",
+    "Date": "10/01/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "41",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "GLOBAL TRADING COMPANY SPA",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "BODEGAJE",
+        "Charge Description": "BODEGAJE",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "41.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 30.00",
+        "Exchange Rate": "971.550",
+        "Amount": "$ 1,230.00",
+        "Company Currency Amount": "$ 1,195,006.50",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "CARGUIO PALLET",
+        "Charge Description": "CARGUIO PALLET",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "7.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 7.10",
+        "Exchange Rate": "971.550",
+        "Amount": "$ 49.70",
+        "Company Currency Amount": "$ 48,286.04",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "ENTREGA CARGUIO",
+        "Charge Description": "ENTREGA CARGUIO",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "4.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 4.00",
+        "Exchange Rate": "971.550",
+        "Amount": "$ 16.00",
+        "Company Currency Amount": "$ 15,544.80",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00015",
+    "Service Job No": "USPEED DICIEMBRE 2025",
+    "Date": "10/06/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "126",
+    "Net Weight": "0.00",
+    "Gross Weight": "332.42",
+    "Chargeable": "332.42",
+    "Customer": "U-Speed Supply Chain Management (China) LTD.",
+    "Estimated Margin(%)": "35.62",
+    "Received Margin(%)": "35.62",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "[PU] Pickup",
+        "Charge Description": "T-Pickup",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Shipment",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 1,115.96",
+        "Exchange Rate": "901.550",
+        "Amount": "$ 1,115.96",
+        "Company Currency Amount": "$ 1,006,093.74",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "INSPECTION",
+        "Charge Description": "T-INSPECTION",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Shipment",
+        "No of Units": "126.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 1.10",
+        "Exchange Rate": "901.550",
+        "Amount": "$ 138.60",
+        "Company Currency Amount": "$ 124,954.83",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "PICK UP USPEED",
+        "Charge Description": "PICK UP USPEED",
+        "Creditor": "EMPRESA DE CORREOS DE CHILE",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 728,134.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 728,134.00",
+        "Bill Currency Amount": "$ 728,134.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      }
+    ]
+  },
+  {
+    "Booking Ref.": "SJ-00013",
+    "Service Job No": "USPEED NOVIEMBRE 2025",
+    "Date": "10/06/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "118",
+    "Net Weight": "0.00",
+    "Gross Weight": "18.04",
+    "Chargeable": "18.04",
+    "Customer": "U-Speed Supply Chain Management (China) LTD.",
+    "Estimated Margin(%)": "30.69",
+    "Received Margin(%)": "30.69",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "[PU] Pickup",
+        "Charge Description": "T-Pickup",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Shipment",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 1,012.31",
+        "Exchange Rate": "927.950",
+        "Amount": "$ 1,012.31",
+        "Company Currency Amount": "$ 939,373.06",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "INSPECTION",
+        "Charge Description": "T-INSPECTION",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Unit",
+        "No of Units": "118.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 1.10",
+        "Exchange Rate": "927.950",
+        "Amount": "$ 129.80",
+        "Company Currency Amount": "$ 120,447.91",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "PICK UP",
+        "Charge Description": "PICK UP",
+        "Creditor": "EMPRESA DE CORREOS DE CHILE",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 734,513.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 734,513.00",
+        "Bill Currency Amount": "$ 734,513.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      }
+    ]
+  },
+  {
+    "Booking Ref.": "SJ-00012",
+    "Service Job No": "GTC-NOVIEMBRE 2025",
+    "Date": "10/01/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "24",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "GLOBAL TRADING COMPANY SPA",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "BODEGAJE",
+        "Charge Description": "BODEGAJE",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "24.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 30.00",
+        "Exchange Rate": "999.140",
+        "Amount": "$ 720.00",
+        "Company Currency Amount": "$ 719,380.80",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "CARGUIO PALLET",
+        "Charge Description": "CARGUIO PALLET",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "3.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 7.10",
+        "Exchange Rate": "999.140",
+        "Amount": "$ 21.30",
+        "Company Currency Amount": "$ 21,281.68",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "ENTREGA CARGUIO",
+        "Charge Description": "ENTREGA CARGUIO",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "2.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 4.00",
+        "Exchange Rate": "999.140",
+        "Amount": "$ 8.00",
+        "Company Currency Amount": "$ 7,993.12",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00011",
+    "Service Job No": "GTC-OCTUBRE 2025",
+    "Date": "10/01/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "27",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "GLOBAL TRADING COMPANY SPA",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "ALMACENAJE BODEGA",
+        "Charge Description": "ALMACENAJE BODEGA",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "27.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 30.00",
+        "Exchange Rate": "940.850",
+        "Amount": "$ 810.00",
+        "Company Currency Amount": "$ 762,088.50",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00010",
+    "Service Job No": "USPEED OCTUBRE 2025",
+    "Date": "10/06/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "115",
+    "Net Weight": "0.00",
+    "Gross Weight": "124.00",
+    "Chargeable": "124.00",
+    "Customer": "U-Speed Supply Chain Management (China) LTD.",
+    "Estimated Margin(%)": "36.56",
+    "Received Margin(%)": "36.56",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "INSPECTION",
+        "Charge Description": "INSPECTION",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Unit",
+        "No of Units": "115.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 1.10",
+        "Exchange Rate": "943.690",
+        "Amount": "$ 126.50",
+        "Company Currency Amount": "$ 119,376.79",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "PICK UP",
+        "Charge Description": "PICK UP",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 915.43",
+        "Exchange Rate": "943.690",
+        "Amount": "$ 915.43",
+        "Company Currency Amount": "$ 863,882.14",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "PICK UP",
+        "Charge Description": "PICK UP",
+        "Creditor": "EMPRESA DE CORREOS DE CHILE",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 623,783.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 623,783.00",
+        "Bill Currency Amount": "$ 623,783.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      }
+    ]
+  },
+  {
+    "Booking Ref.": "SJ-00009",
+    "Service Job No": "DHL Pinky SPA 3349021200",
+    "Date": "10/13/2025",
+    "Sales Agent": "Wilfredo Caroca",
+    "Service Job Type": "COUNSELING IN FOREING TRADE",
+    "Packs": "1",
+    "Net Weight": "0.00",
+    "Gross Weight": "10.00",
+    "Chargeable": "10.00",
+    "Customer": "Pinky SPA",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "COUNSELING IN FOREIGN TRADE SERVICE",
+        "Charge Description": "COUNSELING IN FOREIGN TRADE SERVICE",
+        "Debtor": "Pinky SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 30,000.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 30,000.00",
+        "Company Currency Amount": "$ 30,000.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00008",
+    "Service Job No": "USPEED SEPTIEMBRE 2025",
+    "Date": "10/06/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "76",
+    "Net Weight": "0.00",
+    "Gross Weight": "41.74",
+    "Chargeable": "41.74",
+    "Customer": "U-Speed Supply Chain Management (China) LTD.",
+    "Estimated Margin(%)": "36.60",
+    "Received Margin(%)": "36.60",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "PICK UP",
+        "Charge Description": "PICK UP",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 624.47",
+        "Exchange Rate": "963.170",
+        "Amount": "$ 624.47",
+        "Company Currency Amount": "$ 601,470.77",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "INSPECTION",
+        "Charge Description": "INSPECTION",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Unit",
+        "No of Units": "76.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 1.10",
+        "Exchange Rate": "963.170",
+        "Amount": "$ 83.60",
+        "Company Currency Amount": "$ 80,521.01",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "PICK UP",
+        "Charge Description": "PICK UP",
+        "Creditor": "EMPRESA DE CORREOS DE CHILE",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 432,395.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 432,395.00",
+        "Bill Currency Amount": "$ 432,395.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      }
+    ]
+  },
+  {
+    "Booking Ref.": "SJ-00007",
+    "Service Job No": "GTC-SEPTIEMBRE 2025",
+    "Date": "09/01/2025",
+    "Sales Agent": "Paula Estay",
+    "Service Job Type": "ALMACENAJE",
+    "Packs": "0",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "GLOBAL TRADING COMPANY SPA",
+    "Estimated Margin(%)": "0.00",
+    "Received Margin(%)": "0.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "BODEGAJE",
+        "Charge Description": "BODEGAJE",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "28.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 9.00",
+        "Exchange Rate": "1,029.190",
+        "Amount": "$ -259,103.88",
+        "Company Currency Amount": "$ -266,667,122.26",
+        "Due Amount": "$ -259,103.88",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "PICK UP",
+        "Charge Description": "PICK UP",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 6.00",
+        "Exchange Rate": "1,029.190",
+        "Amount": "$ -6,169.14",
+        "Company Currency Amount": "$ -6,349,217.20",
+        "Due Amount": "$ -6,169.14",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00006",
+    "Service Job No": "GTC-SEPTIEMBRE 2025",
+    "Date": "09/01/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "28",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "GLOBAL TRADING COMPANY SPA",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "ALMACENAJE",
+        "Charge Description": "ALMACEN x PALLET",
+        "Debtor": "GLOBAL TRADING COMPANY SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "28.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 30.00",
+        "Exchange Rate": "1,033.090",
+        "Amount": "$ 840.00",
+        "Company Currency Amount": "$ 867,795.60",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00005",
+    "Service Job No": "USPEED AGOSTO 2025",
+    "Date": "09/05/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "74",
+    "Net Weight": "0.00",
+    "Gross Weight": "94.72",
+    "Chargeable": "94.72",
+    "Customer": "U-Speed Supply Chain Management (China) LTD.",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "PICK UP",
+        "Charge Description": "PICK UP",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 621.37",
+        "Exchange Rate": "971.220",
+        "Amount": "$ 621.37",
+        "Company Currency Amount": "$ 603,486.97",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "INSPECTION",
+        "Charge Description": "INSPECTION",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 81.40",
+        "Exchange Rate": "971.220",
+        "Amount": "$ 81.40",
+        "Company Currency Amount": "$ 79,057.31",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00003",
+    "Service Job No": "DHL Pinky SPA 4197664295",
+    "Date": "08/26/2025",
+    "Sales Agent": "Wilfredo Caroca",
+    "Service Job Type": "COUNSELING IN FOREING TRADE",
+    "Packs": "1",
+    "Net Weight": "0.00",
+    "Gross Weight": "18.36",
+    "Chargeable": "18.36",
+    "Customer": "Pinky SPA",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "COUNSELING IN FOREIGN TRADE",
+        "Charge Description": "COUNSELING IN FOREIGN TRADE",
+        "Debtor": "Pinky SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 25,210.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 25,210.00",
+        "Company Currency Amount": "$ 25,210.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00002",
+    "Service Job No": "Certificado N° 107",
+    "Date": "08/05/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "POLIZA DE SEGURO",
+    "Packs": "3,051",
+    "Net Weight": "0.00",
+    "Gross Weight": "0.00",
+    "Chargeable": "0.00",
+    "Customer": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA",
+    "Estimated Margin(%)": "100.00",
+    "Received Margin(%)": "100.00",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "INSURANCE",
+        "Charge Description": "INSURANCE",
+        "Debtor": "GRUPO EMPRESARIAL DE IMPORTACIONES DE FRUTAS, VERDURAS Y BIENES MUEBLES SPA",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 158.35",
+        "Exchange Rate": "1,034.280",
+        "Amount": "$ 158.35",
+        "Company Currency Amount": "$ 163,778.24",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": []
+  },
+  {
+    "Booking Ref.": "SJ-00001",
+    "Service Job No": "USPEED JULIO 2025",
+    "Date": "08/05/2025",
+    "Sales Agent": "Marco Osses",
+    "Service Job Type": "INSPECCION Y BODEGAJE",
+    "Packs": "84",
+    "Net Weight": "0.00",
+    "Gross Weight": "54.77",
+    "Chargeable": "54.77",
+    "Customer": "U-Speed Supply Chain Management (China) LTD.",
+    "Estimated Margin(%)": "37.97",
+    "Received Margin(%)": "37.97",
+    "Form_Customer": "WORLD CENTRIC GROUP",
+    "Form_Customer_Address": "WORLD CENTRIC GROUP\r\nAvenida La Dehesa 222\r\nOficina 808, Lo Barnechea\r\nLO BARNECHEA 13\r\nChile",
+    "Form_Shipper": "TACX BV BOTTLE PROMOTION",
+    "Form_Shipper_Address": "TACX BV BOTTLE PROMOTION\r\nRIJKSSTRAATWEG 52\r\nSweden",
+    "Form_Consignee": "DEEP OCEAN GOODS SPA",
+    "Form_Consignee_Address": "DEEP OCEAN GOODS SPA\r\nAVENIDA LA DEHESA 222 OFFICE 814\r\nChile",
+    "Parties": [
+      {
+        "Party Type": "Customer",
+        "Party": "WORLD CENTRIC GROUP",
+        "Party Address": "WORLD CENTRIC GROUP"
+      },
+      {
+        "Party Type": "Consignee",
+        "Party": "DEEP OCEAN GOODS SPA",
+        "Party Address": "DEEP OCEAN GOODS SPA"
+      },
+      {
+        "Party Type": "Shipper",
+        "Party": "TACX BV BOTTLE PROMOTION",
+        "Party Address": "TACX BV BOTTLE PROMOTION"
+      },
+      {
+        "Party Type": "Agent",
+        "Party": "Tu Casilla SPA",
+        "Party Address": "Tu Casilla SPA"
+      }
+    ],
+    "RevenueCharges": [
+      {
+        "Charge Details": "[PU] Pickup",
+        "Charge Description": "T-Pickup",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Shipment",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 673.89",
+        "Exchange Rate": "980.000",
+        "Amount": "$ 673.89",
+        "Company Currency Amount": "$ 660,412.20",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      },
+      {
+        "Charge Details": "INSPECTION",
+        "Charge Description": "T-INSPECTION",
+        "Debtor": "U-Speed Supply Chain Management (China) LTD.",
+        "Measurement Basis": "Shipment",
+        "No of Units": "1.00",
+        "Currency": "USD",
+        "Rate per Unit": "$ 92.40",
+        "Exchange Rate": "980.000",
+        "Amount": "$ 92.40",
+        "Company Currency Amount": "$ 90,552.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Invoice"
+      }
+    ],
+    "CostCharges": [
+      {
+        "Charge Details": "FLETE TERRESTRE",
+        "Charge Description": "FLETE TERRESTRE",
+        "Creditor": "EMPRESA DE CORREOS DE CHILE",
+        "Measurement Basis": "Unit",
+        "No of Units": "1.00",
+        "Currency": "CLP",
+        "Rate per Unit": "$ 465,806.00",
+        "Exchange Rate": "1.000",
+        "Amount": "$ 465,806.00",
+        "Bill Currency Amount": "$ 465,806.00",
+        "Due Amount": "$ 0.00",
+        "Status": "Fully Billed"
+      }
+    ]
+  }
+]
